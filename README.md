@@ -1,0 +1,3 @@
+# jebolkuota
+scrip buat orng yang di benci
+...ini adalah script penghapus data massal...
