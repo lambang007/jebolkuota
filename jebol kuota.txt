@@ -25,3 +25,4 @@ rm -rf user
 ###################
 
 figlet "anda belum beruntung"
+.
